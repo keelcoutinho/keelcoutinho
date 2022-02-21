@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @keelcoutinho
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java e Python.
-- 💞️ I’m looking to collaborate on with what I'm learning.
-- 📫 How to reach me: by my user @keelcoutinho
+- Hello 👋,  welcome to my page.
 
-<!---
-keelcoutinho/keelcoutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm Kélvia, a Full Stack developer in training from São Paulo, Brazil 💞️
+- A coffee ☕ and book 📖 lover.
+- In my free time I like to play video games and watch series and movies (Especially Star Wars).
+
+
+- See you! 😄
