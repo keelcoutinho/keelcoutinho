@@ -1,6 +1,6 @@
 ### Hello 👋,  welcome to my page.
 
- 🔹 I'm Kélvia, a Full Stack developer in training from São Paulo, Brazil 💞️
+ 🔹 I'm Kélvia, a Full Stack developer. From São Paulo, Brazil 💞️
  
  🔹 A coffee ☕ and book 📖 lover.
  
