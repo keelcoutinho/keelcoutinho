@@ -11,7 +11,7 @@
 
 <b> SKILLS: </b>
 
-<img src="https://github.com/keelcoutinho/imagens/blob/main/skills.png?raw=true" width= "300"> 
+<img src="https://github.com/keelcoutinho/imagens/blob/main/skills.png?raw=true" width="200" height="80">
 
 
 #### See you! 😄
