@@ -11,7 +11,7 @@
 
 <b> SKILLS: </b>
 
-<img src="https://github.com/keelcoutinho/portifolio/blob/main/img/java.png" style = "width: 45px"> <img src="https://github.com/keelcoutinho/portifolio/blob/main/img/spring.png" style = "width: 45px"> <img src="https://i.ibb.co/NTPVfkr/javascript.png" style = "width: 35px"><img src="https://i.ibb.co/cyZb5YY/html.png" style = "width: 45px"><img src="https://github.com/keelcoutinho/portifolio/blob/main/img/css.png" style = "width: 40px"><img src="https://github.com/keelcoutinho/portifolio/blob/main/img/angular.png" style = "width: 40px"> <img src="https://github.com/keelcoutinho/portifolio/blob/main/img/bootstrap.png" style = "width: 35px">  <img src="https://i.ibb.co/fHW0z85/git.png" style = "width: 40px">  <img src="https://i.ibb.co/0ZWPWqV/gitHub.png" style = "width: 40px"> <img src="https://github.com/keelcoutinho/portifolio/blob/main/img/gitLab2.png" style = "width: 55px"> 
+<img src="https://github.com/keelcoutinho/imagens/blob/main/skills.png?raw=true" style = "width: 300px;"> 
 
 
 #### See you! 😄
